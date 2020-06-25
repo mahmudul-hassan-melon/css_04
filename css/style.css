@@ -1,0 +1,169 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    margin: auto 10%;
+}
+
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: #14c2e7;
+}
+
+h1{
+    color: tomato;
+    display: inline;
+    border-radius: 2%;
+    text-shadow: 3px 4px 0 black;
+    font-size: 100px;
+    text-align: center;
+    margin: 20px;
+}
+span{
+    color: white;
+}
+
+.one{
+    width: 1000px;
+    height: 100px;
+    border: 12px solid blueviolet;
+    background-image: url(../img/photo.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.two{
+    width: 1000px;
+    height: 100px;
+    border: 12px solid blueviolet;
+    background-image: url(../img/photo.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 50px;
+}
+.three{
+    width: 1000px;
+    height: 100px;
+    border: 12px solid blueviolet;
+    background-image: url(../img/photo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 50px;
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+/*  */
+.clip{
+    width: 100%;
+    height: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 30px;
+    box-sizing: border-box;
+    color: antiquewhite;
+    background-color: black;
+
+
+}
+h2{
+    font-size: 100px;
+    font-family: impact;
+    background-image: url(../img/Add\ a\ heading\ \(4\).png);
+    -webkit-background-clip: text;
+    color: transparent;
+    background-clip: text;
+    text-align: center;
+
+}
+/*  */
+.test1{
+    width: 25%;
+    float: left;
+}
+.test1A{
+  list-style-type: none;
+  list-style-image: url(../img/1200px-Arrow_icon.svg.png); 
+  margin-top: 100px; 
+}
+
+.test1B{
+    list-style-type: none;
+    list-style-image: url(../img/download-\(3\).png); 
+    margin-top: 100px; 
+}
+.test1C{
+    list-style-type: none;
+    list-style-image: url(../img/arrows-icon-arrow-right-icon-art-studio-icon-right-arrow-icon-line-logo-material-property-symbol-sign-png-clip-art.png); 
+    margin-top: 100px;  
+}
+.test2{
+    width: 25%;
+    float: left;
+}
+.test2A{
+    list-style-type: none;
+    list-style-image: url(../img/1200px-Arrow_icon.svg.png); 
+    margin-top: 100px; 
+  }
+  
+  .test2B{
+      list-style-type: none;
+      list-style-image: url(../img/download-\(3\).png); 
+      margin-top: 100px; 
+  }
+  .test2C{
+      list-style-type: none;
+      list-style-image: url(../img/arrows-icon-arrow-right-icon-art-studio-icon-right-arrow-icon-line-logo-material-property-symbol-sign-png-clip-art.png); 
+      margin-top: 100px;  
+  }
+  .test3{
+    width: 25%;
+    float: left;
+}
+.test3A{
+    list-style-type: none;
+    list-style-image: url(../img/1200px-Arrow_icon.svg.png); 
+    margin-top: 100px; 
+  }
+  
+  .test3B{
+      list-style-type: none;
+      list-style-image: url(../img/download-\(3\).png); 
+      margin-top: 100px; 
+  }
+  .test3C{
+      list-style-type: none;
+      list-style-image: url(../img/arrows-icon-arrow-right-icon-art-studio-icon-right-arrow-icon-line-logo-material-property-symbol-sign-png-clip-art.png); 
+      margin-top: 100px;  
+  }
+  .test4{
+    width: 25%;
+    float: left;
+}
+.test4A{
+    list-style-type: none;
+    list-style-image: url(../img/1200px-Arrow_icon.svg.png); 
+    margin-top: 100px; 
+  }
+  
+  .test4B{
+      list-style-type: none;
+      list-style-image: url(../img/download-\(3\).png); 
+      margin-top: 100px; 
+  }
+  .test4C{
+      list-style-type: none;
+      list-style-image: url(../img/arrows-icon-arrow-right-icon-art-studio-icon-right-arrow-icon-line-logo-material-property-symbol-sign-png-clip-art.png); 
+      margin-top: 100px;  
+  }
